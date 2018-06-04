@@ -27,11 +27,17 @@ plateformes, en attendant de m’héberger moi-même.
     EPUB plugin for Vim.
 
 - [wololo](https://framagit.org/etnadji/wololo)
+
+    Post link(s) to a Wallabag instance
+
 - [evxp](https://framagit.org/etnadji/evxp)
 
     My XML plugin for Vim.
 
 - [gallimarion](https://framagit.org/etnadji/gallimarion)
+
+    Extrait les offres d’emploi publiées par le groupe Madrigall et les transforme en flux RSS.
+
 - [marginaliaEditor](https://framagit.org/etnadji/marginaliaEditor)
 
     A trial of decent free (libre) XML IDE.
