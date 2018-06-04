@@ -3,12 +3,12 @@
 ## EN
 
 In response to Github acquisition by Microsoft, my repositories are now available 
-on other places. My repositories on GitHub will be erased soon.
+on other (better) places. My repositories on GitHub will be erased soon (except
+this one, of course).
 
-Here is where you can get my repos, and a quick summary for each of them.
+(Yes, this is bad english.)
 
-
-(Yes, this is bad english)
+> [Why 301?](https://en.wikipedia.org/wiki/HTTP_301)
 
 ## FR
 
@@ -18,10 +18,24 @@ supprimés au fil de l’eau. Du fait de l’importance de GitHub, je ne peux pa
 permettre d’y être absent. Mais je peux limiter la casse en liant vers d’autres 
 plateformes, en attendant de m’héberger moi-même.
 
+> [Pourquoi 301?](https://fr.wikipedia.org/wiki/Erreur_HTTP_301)
+
 ## The list / La liste
 
 - [vim-epub](https://framagit.org/etnadji/evxp)
+
+    EPUB plugin for Vim.
+
 - [wololo](https://framagit.org/etnadji/wololo)
 - [evxp](https://framagit.org/etnadji/evxp)
+
+    My XML plugin for Vim.
+
 - [gallimarion](https://framagit.org/etnadji/gallimarion)
 - [marginaliaEditor](https://framagit.org/etnadji/marginaliaEditor)
+
+    A trial of decent free (libre) XML IDE.
+
+- [internet-cultural-programs](https://framagit.org/etnadji/internet-cultural-programs)
+
+    A giant list of serious / cultural shows on the Internet.
