@@ -20,6 +20,8 @@ plateformes, en attendant de m’héberger moi-même.
 
 > [Pourquoi 301?](https://fr.wikipedia.org/wiki/Erreur_HTTP_301)
 
+> [Pourquoi Microsoft ça pue ?](http://sebsauvage.net/wiki/doku.php?id=microsoft)
+
 ## The list / La liste
 
 - [vim-epub](https://framagit.org/etnadji/vim-epub)
