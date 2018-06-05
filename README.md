@@ -45,3 +45,7 @@ plateformes, en attendant de m’héberger moi-même.
 - [internet-cultural-programs](https://framagit.org/etnadji/internet-cultural-programs)
 
     A giant list of serious / cultural shows on the Internet.
+
+- [ogaya](https://framagit.org/etnadji/ogaya)
+
+    Off-Google-Account Youtube Aggregator 
