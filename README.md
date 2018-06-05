@@ -22,7 +22,7 @@ plateformes, en attendant de m’héberger moi-même.
 
 ## The list / La liste
 
-- [vim-epub](https://framagit.org/etnadji/evxp)
+- [vim-epub](https://framagit.org/etnadji/vim-epub)
 
     EPUB plugin for Vim.
 
