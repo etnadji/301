@@ -1,4 +1,4 @@
-# 301 - List of my moved repositories URLs
+# I left Github. Here is where my repos were moved.
 
 ## EN
 
