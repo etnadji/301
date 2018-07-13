@@ -2,9 +2,11 @@
 
 ## EN
 
-In response to Github acquisition by Microsoft, my repositories are now available 
-on other (better) places. My repositories on GitHub will be erased soon (except
-this one, of course).
+In response to Microsoft's acquisition of Github, my repositories are now 
+available on other platforms. My GitHub repositories (except this one, 
+obviously) have been deleted. Because of the importance of GitHub, I can not 
+afford to be missing on it. But I can limit the damages by linking to other 
+platforms, until I host my repositories myself.
 
 (Yes, this is bad english.)
 
@@ -13,10 +15,10 @@ this one, of course).
 ## FR
 
 En réponse à l’acquisition de Github par Microsoft, mes dépôts sont disponibles 
-sur d’autres plateformes. Mes dépôts GitHub (sauf celui-ci, évidemment) seront 
-supprimés au fil de l’eau. Du fait de l’importance de GitHub, je ne peux pas me 
-permettre d’y être absent. Mais je peux limiter la casse en liant vers d’autres 
-plateformes, en attendant de m’héberger moi-même.
+sur d’autres plateformes. Mes dépôts GitHub (sauf celui-ci, évidemment) ont été
+supprimés. Du fait de l’importance de GitHub, je ne peux pas me permettre d’y 
+être absent. Mais je peux limiter la casse en liant vers d’autres plateformes, 
+en attendant de pouvoir m’héberger moi-même.
 
 > [Pourquoi 301?](https://fr.wikipedia.org/wiki/Erreur_HTTP_301)
 
