@@ -12,6 +12,8 @@ platforms, until I host my repositories myself.
 
 > [Why 301?](https://en.wikipedia.org/wiki/HTTP_301)
 
+> [Also, Microsoft products stinks](https://itvision.altervista.org/why-windows-10-sucks.html)
+
 ## FR
 
 En réponse à l’acquisition de Github par Microsoft, mes dépôts sont disponibles 
