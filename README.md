@@ -10,9 +10,9 @@ platforms, until I host my repositories myself.
 
 (Yes, this is bad english.)
 
-> [Why 301?](https://en.wikipedia.org/wiki/HTTP_301)
+> [Microsoft stinks](https://itvision.altervista.org/why-windows-10-sucks.html)
 
-> [Also, Microsoft products stinks](https://itvision.altervista.org/why-windows-10-sucks.html)
+> [Why 301?](https://en.wikipedia.org/wiki/HTTP_301)
 
 ## FR
 
@@ -22,35 +22,49 @@ supprimés. Du fait de l’importance de GitHub, je ne peux pas me permettre d�
 être absent. Mais je peux limiter la casse en liant vers d’autres plateformes, 
 en attendant de pouvoir m’héberger moi-même.
 
-> [Pourquoi 301?](https://fr.wikipedia.org/wiki/Erreur_HTTP_301)
-
 > [Pourquoi Microsoft ça pue ?](http://sebsauvage.net/wiki/doku.php?id=microsoft)
 
+> [Pourquoi 301?](https://fr.wikipedia.org/wiki/Erreur_HTTP_301)
+
 ## The list / La liste
+
+- [PyScribus](https://framagit.org/etnadji/pyscribus)
+
+   Read, create and update Scribus .sla files with Python.
+
+- [evxp](https://framagit.org/etnadji/evxp)
+
+    My own XML plugin for Vim.
+
+- [internet-cultural-programs](https://framagit.org/etnadji/internet-cultural-programs)
+
+    A giant list of serious / cultural shows on the Internet.
+
+- [Shoebird](https://framagit.org/etnadji/shoebird)
+
+    A links aggregator static website generator inspired by Shaarli.
+
+- [LibreDeck](https://framagit.org/etnadji/libredeck)
+
+   Streamboard for GNOME.
+
+### In pause
+
+- [marginaliaEditor](https://framagit.org/etnadji/marginaliaEditor)
+
+    A (trial) of decent free (libre) XML IDE.
+
+### Buggy ?
 
 - [vim-epub](https://framagit.org/etnadji/vim-epub)
 
     EPUB plugin for Vim.
 
+### Outdated
+
 - [wololo](https://framagit.org/etnadji/wololo)
 
     Post link(s) to a Wallabag instance
-
-- [evxp](https://framagit.org/etnadji/evxp)
-
-    My XML plugin for Vim.
-
-- [gallimarion](https://framagit.org/etnadji/gallimarion)
-
-    Extrait les offres d’emploi publiées par le groupe Madrigall et les transforme en flux RSS.
-
-- [marginaliaEditor](https://framagit.org/etnadji/marginaliaEditor)
-
-    A trial of decent free (libre) XML IDE.
-
-- [internet-cultural-programs](https://framagit.org/etnadji/internet-cultural-programs)
-
-    A giant list of serious / cultural shows on the Internet.
 
 - [ogaya](https://framagit.org/etnadji/ogaya)
 
